@@ -4,6 +4,12 @@
 
 **PyPass** is a free, fully offline, terminal-based password generator built in Python by **Sudipta Sunder**, a passionate teenage developer. It generates strong, readable, word-based passwords using a curated vocabulary and true randomness — no internet, no accounts, no cost.
 
+## 📸 Preview
+
+![PyPass Screenshot 1](https://github.com/user-attachments/assets/d5b38f5b-f5d2-4d08-af40-723343af440c)
+![PyPass Screenshot 2](https://github.com/user-attachments/assets/3dade1df-0586-44e4-a4fb-600f9edd8bd1)
+![PyPass Screenshot 3](https://github.com/user-attachments/assets/83efcaa8-5740-4c31-b729-c6b3d8c58ed6)
+
 ---
 
 ### 🔐 How Passwords Are Generated

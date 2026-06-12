@@ -1,5 +1,3 @@
----
-
 ## PyPass — Password Generator
 
 > *Simple to use. Hard to crack. Free forever.*

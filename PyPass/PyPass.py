@@ -732,6 +732,7 @@ time · os · random · sys · colorama · webbrowser · pyperclip''')
             line()
         else:
             print("PASSWORD NOT SAVED IN 'passwords.txt'")
+            line()
             
     if stealth_mode == "False" and option in ('1','2','3','4','5','6','7','8','9','01','02','03','04','05','06','07','08','09','10','11'):
         store_pass()
